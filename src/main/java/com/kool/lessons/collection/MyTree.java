@@ -1,4 +1,4 @@
-package com.kool.lessons;
+package com.kool.lessons.collection;
 
 /**
  * @author luyu

@@ -1,4 +1,4 @@
-package com.kool.lessons;
+package com.kool.lessons.io;
 
 import java.io.*;
 import java.nio.ByteBuffer;
