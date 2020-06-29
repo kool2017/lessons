@@ -65,10 +65,10 @@ public class MyTree {
         return n;
     }
 
-    public void printTree(){
+    public void printTree() {
         if (root == null) {
             print("null");
-        }else {
+        } else {
             printSubTree(root);
         }
     }
@@ -84,7 +84,7 @@ public class MyTree {
         }
     }
 
-    private void print(String str){
+    private void print(String str) {
         System.out.print(str);
     }
 
